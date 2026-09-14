@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Manrope', sans-serif;
+  --font-body: 'Hanken Grotesk', sans-serif;
+}
+
